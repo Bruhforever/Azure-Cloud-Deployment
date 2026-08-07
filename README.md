@@ -1,7 +1,7 @@
 # Azure VM Deployment
 
 ## Description
-This project demonstrated the deployment, configuration, validation and deletion of a Virtual Machine within Azure. The project involved creating a Windows Server environment, configured required networking and access settings, and verifying remote connectivity through Remote Desktop Protocol.
+This project demonstrated the deployment, configuration, validation and deletion of a Virtual Machine within Azure. The project involved creating a Windows Server environment, configuring required networking and access settings, and verifying remote connectivity through Remote Desktop Protocol.
 
 ## Technologies and Utilities Used
 - Microsoft Azure
