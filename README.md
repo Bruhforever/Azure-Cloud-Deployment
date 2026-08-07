@@ -35,8 +35,7 @@ I used the naming scheme VM-Deployment-VM to keep the Azure resources organized 
 <img width="1873" height="920" alt="vm-username" src="https://github.com/user-attachments/assets/97fe1736-e094-4e58-97ba-f8099c9fe954" />
 <br>
 <br>
-I created a local administrator account to allow Remote Desktop Protocol access and validate virtual machine deployment.
-<br>
+I created a local administrator account to allow Remote Desktop Protocol access for deployment validation.
 <br>
 <img width="1879" height="921" alt="RDP-Port-Open_1 1 4" src="https://github.com/user-attachments/assets/1151ee4a-526e-4597-a25e-2f47315bdbef" />
 <br>
