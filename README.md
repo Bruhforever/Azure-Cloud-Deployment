@@ -65,8 +65,8 @@ After deployment, I verified the virtual machine was running successfully.
 <img width="1920" height="1080" alt="RDP-Success_1 2 5" src="https://github.com/user-attachments/assets/a435f782-182f-453b-8000-696680861ff2" />
 <br>
 <br>
-Used a personal computer to access the virtual machine.
-Used ipconfig to check network information.
+I used a personal computer to access the virtual machine.
+I used ipconfig to check network information.
 
 ### Resource Cleanup
 <img width="1876" height="922" alt="vm-deallocated_1 2 7" src="https://github.com/user-attachments/assets/3950d861-9373-408e-adf4-79a8425010ef" />
